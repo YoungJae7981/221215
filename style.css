@@ -1,0 +1,18 @@
+body {
+  background-color: #000;
+}
+
+.google {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 150px;
+}
+
+.open-google {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 30px;
+  font-size: 18px;
+}
